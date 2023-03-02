@@ -1,4 +1,4 @@
-### Muito prazer ! Eu sou o Kaique
+### Muito prazer! Eu sou o Kaique.
 
 <div align="center">
   <a href="https://github.com/kai9ue">
